@@ -1,3 +1,4 @@
+PART B
 # Hibernate Student CRUD Application
 
 A simple Java application using **Hibernate ORM**, **MySQL**, and **Jakarta Persistence** to perform CRUD operations on a `student` table.
@@ -41,3 +42,8 @@ CREATE TABLE student (
   email VARCHAR(100),
   age INT
 );
+
+
+
+
+
